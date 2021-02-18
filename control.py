@@ -1,1 +1,1 @@
-print ("Hello Wold"X
+print ("Hello Wold")
